@@ -1,6 +1,6 @@
 # This is only for Joke
 
-Thugesh make a rost video on adanna07
+Thugesh (an indian youtuber) make a rost video on adanna07(tiktoker)
 in that video thugesh made a joke on adanna07 saying on adanna07 video replace like button with flush button
 
 here 👇
