@@ -22,4 +22,12 @@ turn on the developer mode
 and click on load unpacked extension
 and select the folder that you downloaded in step 1
 
+<!-- add image from ss folder  -->
+
+![alt text](./assets/ss-1.png)
+
 That's all!
+
+# Demo 👇
+
+![](./assets/ezgif.com-gif-maker.gif)
