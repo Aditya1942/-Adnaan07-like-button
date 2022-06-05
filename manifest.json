@@ -1,0 +1,17 @@
+{
+  "name": "Adnaan's like button",
+  "description": "Change the like button to a flush button in Adnaan's Videos.",
+  "version": "1.0.0",
+  "manifest_version": 3,
+
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://www.youtube.com/*", "https://www.youtube.com/*"],
+      "js": ["script.js"]
+    }
+  ],
+  "permissions": ["activeTab", "tabs"]
+}
